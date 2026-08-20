@@ -1,10 +1,4 @@
-<div align="center"> <img src="./assets/banner-github.png" alt="Alejandro Ruiz — Desarrollador de Software" width="100%" /> <br>
-
-Mostrar imagen
-
-<a href="https://linkedin.com/in/alejandro-ruiz-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Gardius320"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div> <br>
+<h1 align="center">Hola, soy Alejandro 👋</h1> <p align="center"> <a href="https://www.linkedin.com/in/alejoruiz320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Gardius320"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
 
 Desarrollador de Software full stack — construyo aplicaciones web de punta a punta, desde la interfaz hasta la arquitectura del backend. Me interesa elegir el patrón correcto según la escala real de cada proyecto: Clean Architecture y CQRS cuando la complejidad lo justifica, un monolito modular cuando no.
 
@@ -13,7 +7,6 @@ Desarrollador de Software full stack — construyo aplicaciones web de punta a p
 📫 Contáctame por LinkedIn
 <br>
 🛠️ Stack
-<div align="center">
 
 Backend
 
@@ -25,7 +18,7 @@ Frontend
 
 Herramientas
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </div> <br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br>
 🚀 Proyectos destacados
 
 🐾 PetApiCare — Sistema de gestión veterinaria Clean Architecture + CQRS (MediatR) · 63 endpoints REST · 47 pruebas automatizadas · CI/CD con GitHub Actions 🔗 Demo en producción
@@ -34,4 +27,4 @@ Herramientas
 
 <br>
 📊 Estadísticas
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gardius320&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gardius320&layout=compact&hide_border=true&theme=default" height="165" /> </div>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Gardius320&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gardius320&layout=compact&hide_border=true&theme=default" height="165" /> </p>
