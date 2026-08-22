@@ -3,7 +3,7 @@
 Desarrollador de Software full stack — construyo aplicaciones web de punta a punta, desde la interfaz hasta la arquitectura del backend. Me interesa elegir el patrón correcto según la escala real de cada proyecto: Clean Architecture y CQRS cuando la complejidad lo justifica, un monolito modular cuando no.
 
 🚀 Mis proyectos más recientes: PetApiCare y Katame, ambos desplegados en producción
-💼 Buscando mi primera oportunidad como desarrollador junior, y abierto a freelance
+💼 Buscando una oportunidad como desarrollador junior, y abierto a freelance
 📫 Contáctame por LinkedIn
 <br>
 🛠️ Stack
